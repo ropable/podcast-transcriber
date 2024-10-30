@@ -1,3 +1,6 @@
 .python-version
 *.mp3
 *.txt
+*.csv
+/transcripts
+/data
