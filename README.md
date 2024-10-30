@@ -1,5 +1,7 @@
 # Podcast Transcriber
 
+Reference: <https://github.com/openai/whisper>
+
 ```python
 import feedparser
 import requests
