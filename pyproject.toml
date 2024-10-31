@@ -9,12 +9,13 @@ package-mode = false
 [tool.poetry.dependencies]
 python = "^3.11"
 feedparser = "6.0.11"
-requests = "^2.31.0"
-openai-whisper = "^20231117"
-python-slugify = "^8.0.3"
+requests = "2.32.3"
+numba = "0.60.0"
+openai-whisper = "20240930"
+python-slugify = "8.0.3"
 
 [tool.poetry.group.dev.dependencies]
-ipython = "^8.21.0"
+ipython = "^8.29.0"
 
 [build-system]
 requires = ["poetry-core"]
